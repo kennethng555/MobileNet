@@ -1,3 +1,4 @@
+This is a hardware implementation of MobileNet meant to be run on the MiniZed.
 
 mobileNet_layerBreakdown_V0.3.xlsx
 	Excel breakdown of each layer, dimensions and memory usage
