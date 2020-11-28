@@ -1,4 +1,4 @@
-Refer to kuang liu's Github. By using pre-existing implementations of MobileNet, the weights were extracted using the modified main.py to use for our hardware model.
+Refer to kuang liu's Github. By using pre-existing implementations of MobileNet, the weights were extracted using the modified main.py for our hardware model.
 https://github.com/kuangliu/pytorch-cifar
 
 The Github's model achieved 95% accuracy; however, we did our own run and got 92% (the code terminated
