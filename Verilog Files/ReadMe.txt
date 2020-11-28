@@ -15,7 +15,5 @@ conv_single_v2.v
 	V1 did not synthesize. 
 	Did not  work in P&R implementation
 	
-
-
 convolution_c_code_v2.c
 	Convolution in C to verify operation
